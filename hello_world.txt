@@ -1,0 +1,1 @@
+This is some text added, before committing hello_world.txt
